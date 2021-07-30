@@ -1,0 +1,2 @@
+# MethodCollection
+Some useful methods
